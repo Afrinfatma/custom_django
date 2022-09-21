@@ -1,0 +1,7 @@
+2022-09-21 20:25:31,852 root ERROR User matching query does not exist.
+2022-09-21 20:25:32,996 root ERROR User matching query does not exist.
+2022-09-21 20:26:41,544 root ERROR null value in column "email" of relation "userapp_user" violates not-null constraint
+DETAIL:  Failing row contains (19, amna, 1357, null, null, null).
+
+2022-09-21 20:28:31,949 root ERROR User matching query does not exist.
+2022-09-21 20:29:44,189 root ERROR User matching query does not exist.
